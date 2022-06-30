@@ -20,6 +20,10 @@ Meme creati e distribuiti durante la finale nazionale della CyberChallenge.IT. B
 
 ![more-food](./pictures/more_food.png)
 
+### SQUIRREL PS
+
+![squirrel-ps](./pictures/squirrel_ps.jpg)
+
 ## BINARY
 
 ### ANGR IO
